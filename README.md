@@ -1,4 +1,4 @@
-![image](https://github.com/aman-jain23/E-Commerce-Website/assets/130204022/93c2d80d-b7bb-479c-a859-618e9649df9c)# E-Commerce-Website
+E-Commerce-Website
 Personal E-Commerce Responsive Website using HTML, CSS and JavaScript language, responsive in laptop, tablets and phones also with many added features like Hamburger Menu, continue text moving, clickable images, video added, google map embedded, forms, newsletters and cart page also. 
 
 Project is live at - https://aman-jain23.github.io/E-Commerce-Website/index.html
